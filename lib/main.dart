@@ -8,7 +8,6 @@ import 'package:xhat_app/counter_stateful_demo.dart';
 import 'package:xhat_app/login_page.dart';
 import 'package:xhat_app/services/auth_service.dart';
 import 'package:xhat_app/utils/brand_color.dart';
-// import 'login_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
